@@ -1,0 +1,4 @@
+PlanID,PlanName,DataLimitGB,CallMinutes,Price
+1,Basic,5,100,10.0
+2,Standard,15,300,25.0
+3,Premium,50,1000,50.0
